@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\myConsoleProject.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8074EE74-3D28-4C24-B022-6B24D8CB6076}|myConsoleProject.cs.csproj|d:\\onedrive\\documents\\github\\basic-c-sharp-projects\\myconsoleproject.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8074EE74-3D28-4C24-B022-6B24D8CB6076}|myConsoleProject.cs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\myConsoleProject.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\myConsoleProject.cs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:55:52.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
