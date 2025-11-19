@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\bin\Debug\net8.0\MathandComparisonOperatorsAssignment.exe
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\bin\Debug\net8.0\MathandComparisonOperatorsAssignment.deps.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\bin\Debug\net8.0\MathandComparisonOperatorsAssignment.runtimeconfig.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\bin\Debug\net8.0\MathandComparisonOperatorsAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\bin\Debug\net8.0\MathandComparisonOperatorsAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\obj\Debug\net8.0\MathandComparisonOperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\obj\Debug\net8.0\MathandComparisonOperatorsAssignment.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\obj\Debug\net8.0\MathandComparisonOperatorsAssignment.AssemblyInfo.cs
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\obj\Debug\net8.0\MathandComparisonOperatorsAssignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\obj\Debug\net8.0\MathandComparisonOperatorsAssignment.sourcelink.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\obj\Debug\net8.0\MathandComparisonOperatorsAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\obj\Debug\net8.0\refint\MathandComparisonOperatorsAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\obj\Debug\net8.0\MathandComparisonOperatorsAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\obj\Debug\net8.0\MathandComparisonOperatorsAssignment.genruntimeconfig.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathandComparisonOperatorsAssignment\obj\Debug\net8.0\ref\MathandComparisonOperatorsAssignment.dll
