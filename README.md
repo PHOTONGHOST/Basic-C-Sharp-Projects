@@ -12,3 +12,6 @@ A simple console app made using C# for AOL students.
 
 4. ConsoleAppAssignment
 A simple console application assignment that answers pre-written math problems by letting users there own numbers (written in C#).
+
+5. MathandComparisonOperatorsAssignment
+A simple math and comparison operators Assignment that compares two employees annual salaries.
