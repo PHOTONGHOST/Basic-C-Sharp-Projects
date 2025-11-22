@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\bin\Debug\net8.0\BooleanLogicAssignment.exe
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\bin\Debug\net8.0\BooleanLogicAssignment.deps.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\bin\Debug\net8.0\BooleanLogicAssignment.runtimeconfig.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\bin\Debug\net8.0\BooleanLogicAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\bin\Debug\net8.0\BooleanLogicAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\obj\Debug\net8.0\BooleanLogicAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\obj\Debug\net8.0\BooleanLogicAssignment.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\obj\Debug\net8.0\BooleanLogicAssignment.AssemblyInfo.cs
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\obj\Debug\net8.0\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\obj\Debug\net8.0\BooleanLogicAssignment.sourcelink.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\obj\Debug\net8.0\BooleanLogicAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\obj\Debug\net8.0\refint\BooleanLogicAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\obj\Debug\net8.0\BooleanLogicAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\obj\Debug\net8.0\BooleanLogicAssignment.genruntimeconfig.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignment\obj\Debug\net8.0\ref\BooleanLogicAssignment.dll
