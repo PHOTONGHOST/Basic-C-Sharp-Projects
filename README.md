@@ -15,3 +15,6 @@ A simple console application assignment that answers pre-written math problems b
 
 5. MathandComparisonOperatorsAssignment
 A simple math and comparison operators Assignment that compares two employees annual salaries.
+
+6. BooleanLogicAssignment
+A simple console app written in C# demonstrating Boolean Logic.
