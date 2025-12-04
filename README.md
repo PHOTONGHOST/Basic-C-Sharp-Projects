@@ -18,3 +18,6 @@ A simple math and comparison operators Assignment that compares two employees an
 
 6. BooleanLogicAssignment
 A simple console app written in C# demonstrating Boolean Logic.
+
+7. Branching Assignemnt
+A basic program that calculates the price of a package to be shipped, uses C# and focuses on branching.
