@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\bin\Debug\net8.0\ConsoleAppBooleanWhile.exe
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\bin\Debug\net8.0\ConsoleAppBooleanWhile.deps.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\bin\Debug\net8.0\ConsoleAppBooleanWhile.runtimeconfig.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\bin\Debug\net8.0\ConsoleAppBooleanWhile.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\bin\Debug\net8.0\ConsoleAppBooleanWhile.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\obj\Debug\net8.0\ConsoleAppBooleanWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\obj\Debug\net8.0\ConsoleAppBooleanWhile.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\obj\Debug\net8.0\ConsoleAppBooleanWhile.AssemblyInfo.cs
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\obj\Debug\net8.0\ConsoleAppBooleanWhile.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\obj\Debug\net8.0\ConsoleAppBooleanWhile.sourcelink.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\obj\Debug\net8.0\ConsoleAppBooleanWhile.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\obj\Debug\net8.0\refint\ConsoleAppBooleanWhile.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\obj\Debug\net8.0\ConsoleAppBooleanWhile.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\obj\Debug\net8.0\ConsoleAppBooleanWhile.genruntimeconfig.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppBooleanWhile\obj\Debug\net8.0\ref\ConsoleAppBooleanWhile.dll
