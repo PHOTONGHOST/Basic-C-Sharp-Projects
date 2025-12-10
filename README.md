@@ -21,3 +21,9 @@ A simple console app written in C# demonstrating Boolean Logic.
 
 7. Branching Assignemnt
 A basic program that calculates the price of a package to be shipped, uses C# and focuses on branching.
+
+8. ConsoleAppBooleanWhile
+A simple console app program created using C# in Visual Studio 2022. Intended to show odd While and do while loops.
+
+9. StringConsoleAssignment
+A console app that shows of strings and their functions.
