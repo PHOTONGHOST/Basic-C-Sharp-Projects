@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\bin\Debug\net8.0\ConsoleAppArrayAassignment.exe
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\bin\Debug\net8.0\ConsoleAppArrayAassignment.deps.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\bin\Debug\net8.0\ConsoleAppArrayAassignment.runtimeconfig.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\bin\Debug\net8.0\ConsoleAppArrayAassignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\bin\Debug\net8.0\ConsoleAppArrayAassignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\obj\Debug\net8.0\ConsoleAppArrayAassignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\obj\Debug\net8.0\ConsoleAppArrayAassignment.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\obj\Debug\net8.0\ConsoleAppArrayAassignment.AssemblyInfo.cs
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\obj\Debug\net8.0\ConsoleAppArrayAassignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\obj\Debug\net8.0\ConsoleAppArrayAassignment.sourcelink.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\obj\Debug\net8.0\ConsoleAppArrayAassignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\obj\Debug\net8.0\refint\ConsoleAppArrayAassignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\obj\Debug\net8.0\ConsoleAppArrayAassignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\obj\Debug\net8.0\ConsoleAppArrayAassignment.genruntimeconfig.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArrayAassignment\obj\Debug\net8.0\ref\ConsoleAppArrayAassignment.dll
