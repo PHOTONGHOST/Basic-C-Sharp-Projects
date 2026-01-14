@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalingMethodsAssignment/1.0.0": {
+        "runtime": {
+          "CalingMethodsAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalingMethodsAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
