@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\bin\Debug\net8.0\MainMethodAssignment.exe
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\bin\Debug\net8.0\MainMethodAssignment.deps.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\bin\Debug\net8.0\MainMethodAssignment.runtimeconfig.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\bin\Debug\net8.0\MainMethodAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\bin\Debug\net8.0\MainMethodAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.AssemblyInfo.cs
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.sourcelink.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\obj\Debug\net8.0\refint\MainMethodAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\obj\Debug\net8.0\MainMethodAssignment.genruntimeconfig.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodAssignment\obj\Debug\net8.0\ref\MainMethodAssignment.dll
