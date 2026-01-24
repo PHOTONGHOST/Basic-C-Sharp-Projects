@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\bin\Debug\net8.0\InputAssignment.exe
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\bin\Debug\net8.0\InputAssignment.deps.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\bin\Debug\net8.0\InputAssignment.runtimeconfig.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\bin\Debug\net8.0\InputAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\bin\Debug\net8.0\InputAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\obj\Debug\net8.0\InputAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\obj\Debug\net8.0\InputAssignment.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\obj\Debug\net8.0\InputAssignment.AssemblyInfo.cs
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\obj\Debug\net8.0\InputAssignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\obj\Debug\net8.0\InputAssignment.sourcelink.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\obj\Debug\net8.0\InputAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\obj\Debug\net8.0\refint\InputAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\obj\Debug\net8.0\InputAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\obj\Debug\net8.0\InputAssignment.genruntimeconfig.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputAssignment\obj\Debug\net8.0\ref\InputAssignment.dll
