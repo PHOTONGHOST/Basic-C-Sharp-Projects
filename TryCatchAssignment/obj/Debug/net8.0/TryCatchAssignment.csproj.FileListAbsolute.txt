@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.exe
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.deps.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.runtimeconfig.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.AssemblyInfo.cs
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.sourcelink.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\obj\Debug\net8.0\refint\TryCatchAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.genruntimeconfig.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchAssignment\obj\Debug\net8.0\ref\TryCatchAssignment.dll
